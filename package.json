@@ -1,0 +1,22 @@
+{
+  "name": "Adventure- Game_08",
+  "version": "08.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": "index.ts",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "inquirer": "^9.2.11",
+    "typescript": "^5.2.2"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.6"
+  }
+}
